@@ -1,0 +1,2 @@
+# Taimur
+I am passionate MERN stack developer with less than one year experience in two major software companies. I have completed several projects in MERN stack . I have worked in Node js ,Express js on server side React js &amp; Redux on client side using MongoDB as Nosql database. Having strong backgound with vanila js, jquery ,ajax i also have hands on Experience with modern js framworks like React js , Node js etc. I want to represent myself on next level so i would be very happy to represent any multinational company. 
